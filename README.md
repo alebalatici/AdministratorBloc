@@ -67,7 +67,7 @@
 ```
 
 ## Modify Data Tab
-<img width="1913" height="1005" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/b5b35f87-4ac6-4f04-a94e-468884154ea1" />
+<img width="1905" height="1002" alt="image" src="https://github.com/user-attachments/assets/199beb30-d2be-444b-8955-f3ae11d70c40" />
 
 ## Sort and Filter Data Tab
 <img width="1908" height="1004" alt="image" src="https://github.com/user-attachments/assets/ae958921-3d53-4e21-84c9-abdafc3a7149" />
