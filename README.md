@@ -1,7 +1,7 @@
 # AdministratorBloc
 
 ## Project Structure
-``
+```
 +---data
 |       default_locatari.txt
 |       locatari.txt
@@ -64,7 +64,7 @@
 \---utils
         file_utils.cpp
         file_utils.h
-``
+```
 
 <img width="1913" height="1005" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/b5b35f87-4ac6-4f04-a94e-468884154ea1" />
 
